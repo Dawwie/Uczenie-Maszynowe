@@ -1,0 +1,13 @@
+name: um
+channels:
+  - menpo
+  - alex-marty
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
+  - keras
+prefix: /home/dawid/miniconda3/envs/um
